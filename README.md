@@ -1,1 +1,2 @@
-# ClimbOnlySever
+# ClimbPleaseSever
+自作ゲーム用のサーバーです
